@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ghussy
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently working on a start up -BlueVerse
+- 🌱 I love building!
 - 💞️ I’m looking to collaborate
 - 📫 Reach out to me on twitter! @ChEEEky_SCRUB
 <!---
